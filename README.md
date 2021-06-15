@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/arthurvenicio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuralest&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralest&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuralest&show_icons=true&theme=radical&include_all_commits=true&count_private=true&text_color=ffffff&title_color=ffffff&bg_color=000080"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralest&layout=compact&langs_count=8&theme=radical&text_color=ffffff&title_color=ffffff&bg_color=000080"/>
 <div>
 
 ##
